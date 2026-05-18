@@ -1,0 +1,15 @@
+{
+    "num_clients": 10,
+    "rounds": 10,
+    "malicious_fraction": 0.2,
+    "learning_rate": 0.01,
+    "psychographic_weights": {
+        "consistency": 0.25,
+        "responsiveness": 0.2,
+        "data_integrity": 0.15,
+        "anomaly_deviation": 0.15,
+        "collaboration": 0.1,
+        "security_compliance": 0.05,
+        "behavioral_bias": 0.1
+    }
+}
